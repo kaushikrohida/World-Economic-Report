@@ -90,20 +90,26 @@ The following are some examples of visualizations included in the notebook:
 •	GDP Growth Over Time:
     <img width="600" alt="GDP Growth Over Time" src="Images/GDP Growth Over Time.png">
 
+
 •	Population Growth Over Time:
     <img width="600" alt="Population Growth Over Time" src="Images/Population Growth Over Time.png">
+
 
 •	Life Expectancy by GDP Per Capita (USD):
     <img width="600" alt="Life Expectancy by GDP Per Capita (USD)" src="Images/Life Expectancy by GDP per Capita (USD).png">
 
+
 •	HDI Progress by Region:
     <img width="600" alt="HDI Progress by Region" src="Images/HDI Progress by Region.png">
+
 
 •	Electricity Power Consumption by GDP Per Capita (USD):
     <img width="600" alt="Electricity Power Consumption by GDP Per Capita (USD)" src="Images/Electricity power consumption by GDP per capita.png">
 
+
 •	Global Economic Development Report:
     <img width="600" alt="Global Economic Development Report" src="Images/Global Economic Development Report.png">
+
 
 These visualizations are designed to be clear and informative, making it easy to interpret key findings from the data.
 
